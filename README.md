@@ -25,8 +25,7 @@ A program to monitor classroom attendance, equipment, and environment.
 **Features:**
 A Python program is required to be built that monitors a classroom. It needs to keep a track of
 the room state like the status of the projector, capacity and topic. It also needs to keep an
-a=endance list. It needs to alert if the room is full, if the temperature is too cold or hot (<16 or
->28), topic set but projector is oﬀ. It should display a menu through which the user can interact
+attendance list. It needs to alert if the room is full, if the temperature is too cold or hot, topic set but projector is oﬀ. It should display a menu through which the user can interact
 and perform various funcIon like toggle projector, seJng the topic, adding student to room,
 removing student from the room, temperature records. So the funcIons are:
 1. Track projector and equipment status
