@@ -1,4 +1,4 @@
-#Case Study 2 — Smart Classroom Monitor
+# Case Study 2 — Smart Classroom Monitor
 
 This folder contains:
 - PDF with steps (1-4), (6-7)
